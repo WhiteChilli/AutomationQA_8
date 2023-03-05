@@ -11,16 +11,26 @@ public class SolverTest {
 
     @Before
     public void setupEachTest() {
-        // run before each test
         solver = new Solver();
     }
 
     @Test
-    public void test() {
-        double result = ;
+    public void determinantIsLessThanZero() {
+        int result = ;
         assertEquals();
     }
 
+    @Test
+    public void determinantIsZero() {
+        int result = ;
+        assertEquals();
+    }
+
+    @Test
+    public void determinantIsMoreThanZero() {
+        int result = ;
+        assertEquals();
+    }
 
 
 }

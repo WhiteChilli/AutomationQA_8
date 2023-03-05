@@ -7,17 +7,17 @@ public class Solver {
 
     public int toSolve(int a, int b, int c) {
 
-        int test = 0;
+        int result = 0;
         int d = (b * b) - (4 * a * c);
 
         if (d < 0) {
-            return 0;
+            result = 0;
         } else if (d == 0) {
-            return 1;
+            result = 1;
         } else if (d > 0) {
-            return 2;
+            result = 2;
         }
-        return test;
+        return result;
 
     }
 }

@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb3d9a92-e31a-4501-b7f5-af9fb681ed29" name="Changes" comment="Lesson 8 Junit added 1st homework task">
+    <list default="true" id="eb3d9a92-e31a-4501-b7f5-af9fb681ed29" name="Changes" comment="Lesson 8 started homework task 6">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Solver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Solver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/SolverTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/SolverTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +38,9 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
   <component name="ProjectId" id="2MKcaAyg8YVbfEbWvaDf0BC2CsB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -46,6 +51,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/anna/IdeaProjects/AutomationQA_7",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
@@ -53,6 +59,11 @@
     "settings.editor.selected.configurable": "actions.on.save"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.App">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.App" />
@@ -176,11 +187,27 @@
       <option name="project" value="LOCAL" />
       <updated>1677785247361</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Lesson 8 added homework tasks 3 to 5">
+      <created>1678024601678</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678024601678</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Lesson 8 started homework task 6">
+      <created>1678026682914</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678026682914</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Lesson 8 Junit added 1st homework task" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lesson 8 Junit added 1st homework task" />
+    <MESSAGE value="Lesson 8 added homework tasks 3 to 5" />
+    <MESSAGE value="Lesson 8 started homework task 6" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lesson 8 started homework task 6" />
   </component>
 </project>
