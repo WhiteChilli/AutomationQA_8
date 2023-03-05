@@ -2,8 +2,23 @@ package org.example;
 
 public class Solver {
 
+    public Solver() {
+    }
+
     public int toSolve(int a, int b, int c) {
-        return result;
+
+        int test = 0;
+        int d = (b * b) - (4 * a * c);
+
+        if (d < 0) {
+            return 0;
+        } else if (d == 0) {
+            return 1;
+        } else if (d > 0) {
+            return 2;
+        }
+        return test;
+
     }
 }
 
