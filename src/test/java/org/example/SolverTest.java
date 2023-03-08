@@ -15,21 +15,21 @@ public class SolverTest {
     }
 
     @Test
-    public void determinantIsLessThanZero() {
-        int result = ;
-        assertEquals();
+    public void discriminantHasTwo() {
+        int result = solver.toSolve(1, -5, 2);
+        assertEquals(2, result);
     }
 
     @Test
-    public void determinantIsZero() {
-        int result = ;
-        assertEquals();
+    public void discriminantHasZero() {
+        int result = solver.toSolve(50, 0, 22);
+        assertEquals(0, result);
     }
 
     @Test
-    public void determinantIsMoreThanZero() {
-        int result = ;
-        assertEquals();
+    public void discriminantHasOne() {
+        int result = solver.toSolve(1, 6, 9);
+        assertEquals(1, result);
     }
 
 
